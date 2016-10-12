@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Weather Yahoo</string>
+    <string name="location_text">Location</string>
+    <string name="condition_text">Condition</string>
+    <string name="temperature_text">Temperature</string>
+</resources>
